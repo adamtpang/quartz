@@ -12,3 +12,8 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+.env
+.env*
+!.env.example
+.vercel
+
